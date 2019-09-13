@@ -1,7 +1,7 @@
 //$("#gallery").show();
 //setTimeout(function() { $("#gallery").hide(); }, 2000);
 setInterval(function () {$("#gallery").hide();},2000);
-
+// !! : toggle this behaviour 
 
 //})
 // $('#gallery').ready(function(){
